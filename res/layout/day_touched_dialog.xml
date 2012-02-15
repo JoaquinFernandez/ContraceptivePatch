@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="wrap_content"
+	android:layout_height="wrap_content">
+	<TextView android:layout_width="wrap_content"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:text="@string/day_touched_text" android:id="@+id/day_touched_textview"
+		android:layout_height="wrap_content" android:gravity="center">
+	</TextView>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:orientation="horizontal" android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:gravity="center"
+		android:paddingTop="10dp">
+		<Button android:id="@+id/day_touched_button_ok"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="@string/button_ok"></Button>
+		<Button android:id="@+id/day_touched_button_no"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="@string/button_no"></Button>
+
+	</LinearLayout>
+</LinearLayout>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Verhütungspflaster</string>
+	<string-array name="weekdays_short">
+	  <item>Mon</item> 
+	  <item>Die</item> 
+	  <item>Mit</item> 
+	  <item>Don</item> 
+	  <item>Fre</item> 
+	  <item>Sam</item> 
+	  <item>Son</item> 
+	</string-array>
+<string-array name="months">
+  <item>Januar</item> 
+  <item>Februar</item> 
+  <item>M\ärz</item> 
+  <item>April</item> 
+  <item>Mai</item> 
+  <item>Juni</item> 
+  <item>Juli</item> 
+  <item>August</item> 
+  <item>September</item> 
+  <item>Oktober</item> 
+  <item>November</item> 
+  <item>Dezember</item> 
+	</string-array>
+	<string-array name="theme_names">
+  <item>Rosa</item> 
+  <item>gr\ün</item> 
+  <item>blau</item> 
+  </string-array>
+	<string-array name="preferences_categories">
+    <item>Starttag Woche</item>
+	<item>Art der Kalender</item> 
+    <item>Alarm</item> 
+    <item>Uhr</item> 
+    <item>Klang</item> 
+    <item>Schwingung</item> 
+    <item>Kauf-Alarm</item> 
+    <item>Tage vor</item> 
+    <item>Uhr</item> 
+    <item>Klang</item> 
+    <item>Schwingung</item> 
+	</string-array>
+	<string-array name="start_week_day">
+ 	 <item>Montag</item> 
+  	 <item>Sonntag</item>
+	</string-array>
+	<string-array name="yes_no_array">
+    <item>Nein</item>  
+     <item>Ja</item> 
+	</string-array>
+	<string-array name="prev_alarm_array">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array>
+  <string name="select_theme_dialog_title">W\ählen sie die Farben!</string>
+  <string name="select_startday_dialog_title">Einleitung Woche</string>
+  <string name="select_ring_type_dialog_title">W\ählen sie die art pille</string>
+  <string name="select_diaryalarm_dialog_title"> Wollen Sie Alarm, von steckte-und-entfernen?</string>
+  <string name="select_cyclealarm_dialog_title">W\ällen Sie kauf-Alarm?</string>
+  <string name="select_prevdays_dialog_title">Wie viele Tage vor dem Start die pflaster? </string>
+  <string name="select_alarm_hour_dialog_title">Setzen sie die uhr</string>
+  <string name="select_sound_dialog_title">Klang</string>
+  <string name="select_vibrate_dialog_title">Schwingung</string>
+  <string name="preferences_calendar_separator">Kalender</string>
+  <string name="preferences_alarms_separator">Alarms</string>
+  <string name="ring_name">Ring</string>
+  <string name="button_ok">Akzeptieren</string>
+  <string name="button_no">Annullieren</string>
+  <string name="menu_about">About</string>
+  <string name="menu_exit">Verlassen</string>
+  <string name="ring_type_not_selected">M\üssen sie w\ählen die art pillen</string>
+  <string name="alarm_info_toast">In das andere Fenster k\önnen Sie einstellen der Alarme</string>
+  <string name="notification_bar_cycle_text1">In </string>
+  <string name="notification_bar_cycle_text2"> Tage sie setzen die pflaster!</string>
+  <string name="notification_bar_cycle_text3">Heute setzen sie die pflaster!</string>
+  <string name="notification_bar_cycle_text4">Morgen setzen sie die pflaster!</string>
+  <string name="day_touched_text">Wollen Sie den Einleitung der pflasterverändern?</string>
+  <string name="set_taking_ringday_toast">Klicken Sie oberhalb der Tag des Starts der erste Patch</string>
+  <string name="rest_name">Ruhe</string>
+	<string name="notification_bar_put_ring_text">setzen die pflaster!</string>
+	<string name="notification_bar_remove_ring_text">entfernen die pflaster!</string>
+	<string name="notification_bar_buy_text">Sie Vergessen nicht die pflaster zu kaufen</string>
+</resources>

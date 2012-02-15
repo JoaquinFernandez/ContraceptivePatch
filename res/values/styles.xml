@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NoTitleDialog" parent="android:style/Theme.Dialog">
+   <item name="android:windowNoTitle">true</item>
+</style>
+    <style name="CenteredDialog" parent="android:style/Theme.Dialog">
+   <item name="android:gravity">center</item>
+   </style>
+</resources>

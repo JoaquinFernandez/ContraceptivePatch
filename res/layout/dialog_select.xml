@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/initial_dialog" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:clickable="false">
+
+	<TextView android:id="@+id/select_dialog_text"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:clickable="false" android:gravity="center"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:background="@color/grey" android:textColor="@color/black" />
+
+	<ListView android:paddingTop="10dp"
+		android:id="@+id/initial_dialog_listview" android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:layout_gravity="center" android:choiceMode="singleChoice" />
+
+	<Button android:id="@+id/initial_dialog_button"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:layout_gravity="center" android:clickable="true"
+		 android:text="@string/button_ok" />
+</LinearLayout>

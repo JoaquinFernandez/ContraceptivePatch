@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">timbre contraceptif</string>
+
+    <string-array name="weekdays_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Dim</item>
+    </string-array>
+    <string-array name="months">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre </item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Rose</item>
+        <item>Vert</item>
+        <item>bleu</item>
+    </string-array>
+    <string-array name="preferences_categories">
+        <item>commencement de la semaine</item>
+        <item>Types de calendrier</item>
+        <item>Alarmes</item>
+        <item>Heure</item>
+        <item>Son</item>
+        <item>Vibrateur</item>
+        <item>Alarma d\'achat</item>
+        <item>jours avant</item>
+        <item>Heure</item>
+        <item>Son</item>
+        <item>Vibrateur</item>
+    </string-array>
+    <string-array name="start_week_day">
+        <item>Lundi</item>
+        <item>Dimanche</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>No</item>
+        <item>Oui</item>
+    </string-array>
+    <string-array name="prev_alarm_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="select_theme_dialog_title">Choisissez tes couleurs!</string>
+    <string name="select_startday_dialog_title">commencement de la semaine</string>
+    <string name="select_diaryalarm_dialog_title">Est-ce que tu veux que je vous avertir de enfiler et d\'enlever votre timbre?</string>
+    <string name="select_cyclealarm_dialog_title"> Est-ce que tu veux que je vous avertir de que le jour de enfiler votre timbre? \n
+    Pour que tu souvenez s\'uller à achèler-là</string>
+    <string name="select_prevdays_dialog_title">Combien jours avant de commencer le proche timbre tu veux que je vous avertir?</string>
+    <string name="select_alarm_hour_dialog_title">Heure</string>
+    <string name="select_sound_dialog_title">Son</string>
+    <string name="select_vibrate_dialog_title">Vibrateur</string>
+    <string name="preferences_calendar_separator">Calendrier</string>
+    <string name="preferences_alarms_separator">Alarmes</string>
+    <string name="ring_name">Anneau</string>
+    <string name="button_ok">accepter</string>
+    <string name="button_no">Annuler</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="alarm_info_toast">Dans l\'autre fenêtre, vous pouvez définir vos alarmes</string>
+    <string name="notification_bar_cycle_text1">¡En </string>
+    <string name="notification_bar_cycle_text2"> Jours tu commenceras le proche timbre!</string>
+    <string name="notification_bar_cycle_text3"> Aujourd\'hui tu commences le proche timbre!</string>
+    <string name="notification_bar_cycle_text4">¡Matin tu commences le proche timbre!</string>
+    <string name="day_touched_text">Tu est sure de que tu souhaites changer le jour que vous avez mettre le premier timbre?</string>
+    <string name="set_taking_ringday_toast">cliquez sur le jour que vous avez mettre le premier timbre</string>
+    <string name="rest_name">Repos</string>
+    <string name="notification_bar_put_ring_text">Mettez timbre!</string>
+    <string name="notification_bar_remove_ring_text">Retirer timbre!</string>
+    <string name="notification_bar_buy_text">N\'oubliez pas d\'aller acheter timbre</string>
+
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Contraceptive Patch</string>
+	<string name="app_version">Version</string>
+	<string name="email">e-mail: \nj.solutions.sp.patch@gmail.com \n</string>
+	<string name="company_name">J Solutions SP ™</string>
+	<string-array name="weekdays_short">
+		<item>Mon</item>
+		<item>Tue</item>
+		<item>Wed</item>
+		<item>Thu</item>
+		<item>Fri</item>
+		<item>Sat</item>
+		<item>Sun</item>
+	</string-array>
+	<string-array name="months">
+		<item>January</item>
+		<item>February</item>
+		<item>March</item>
+		<item>April</item>
+		<item>May</item>
+		<item>June</item>
+		<item>July</item>
+		<item>August</item>
+		<item>September</item>
+		<item>October</item>
+		<item>November</item>
+		<item>December</item>
+	</string-array>
+	<string-array name="theme_names">
+		<item>Pink</item>
+		<item>Green</item>
+		<item>Blue</item>
+	</string-array>
+	<string-array name="preferences_categories">
+		<item>Week Start Day</item>
+		<item>Calendar Theme</item>
+		<item>Alarm</item>
+		<item>Set Time</item>
+		<item>Sound</item>
+		<item>Vibration</item>
+		<item>Buy Alarm</item>
+		<item>Previous Days</item>
+		<item>Set Time</item>
+		<item>Sound</item>
+		<item>Vibration</item>
+	</string-array>
+	<string-array name="start_week_day">
+		<item>Monday</item>
+		<item>Sunday</item>
+	</string-array>
+	<string-array name="yes_no_array">
+		<item>No</item>
+		<item>Yes</item>
+	</string-array>
+	<string-array name="prev_alarm_array">
+		<item>0</item>
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+	</string-array>
+	<string name="select_theme_dialog_title">¡Choose your colors!</string>
+	<string name="select_startday_dialog_title">Week start day</string>
+	<string name="select_diaryalarm_dialog_title">Do you want me to remind you when you have to put and remove the patch?</string>
+	<string name="select_cyclealarm_dialog_title">Do you want a buy alarm reminder?</string>
+	<string name="select_prevdays_dialog_title">How many days before putting the patch do you want me to remind you?</string>
+	<string name="select_alarm_hour_dialog_title">Set Time</string>
+	<string name="select_sound_dialog_title">Sound</string>
+	<string name="select_vibrate_dialog_title">Vibration</string>
+	<string name="preferences_calendar_separator">Calendar</string>
+	<string name="preferences_alarms_separator">Alarms</string>
+	<string name="ring_name">Patch</string>
+	<string name="button_ok">OK</string>
+	<string name="button_no">Cancel</string>
+	<string name="menu_about">About</string>
+	<string name="menu_exit">Exit</string>
+	<string name="alarm_info_toast">You can set alarms in the other tab</string>
+	<string name="notification_bar_cycle_text1">You have to put the patch in</string>
+	<string name="notification_bar_cycle_text2"> days!</string>
+	<string name="notification_bar_cycle_text3">You have to put the patch today!</string>
+	<string name="notification_bar_cycle_text4">You have to put the patch tomorrow!</string>
+	<string name="day_touched_text">Are you sure you want to change the day you put the first patch of the cycle?</string>
+	<string name="set_taking_ringday_toast">Click on the day you started putting the patch</string>
+	<string name="rest_name">Rest</string>
+	<string name="notification_bar_put_ring_text">¡Put the patch!</string>
+	<string name="notification_bar_remove_ring_text">¡Remove the patch!</string>
+	<string name="notification_bar_buy_text">Remember buying it</string>
+	<string name="button_calificate">Rate!</string>
+</resources>

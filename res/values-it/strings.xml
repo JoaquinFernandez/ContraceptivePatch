@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cerotto contraccettivo</string>
+    <string-array name="weekdays_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="months">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="theme_names">
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Azzurro</item>
+    </string-array>
+    <string-array name="preferences_categories">
+        <item>Inizio della settimana</item>
+        <item>Tipi di calendario</item>
+        <item>Allarmi</item>
+        <item>Ore</item>
+        <item>Suono</item>
+        <item>Vibrazione</item>
+        <item>Alarma de achãquisto</item>
+        <item>Giorni prima</item>
+        <item>Ore</item>
+        <item>Suono</item>
+        <item>Vibrazione</item>
+    </string-array>
+    <string-array name="start_week_day">
+        <item>Lunedì</item>
+        <item>Domenica</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>No</item>
+        <item>Si</item>
+    </string-array>
+    <string-array name="prev_alarm_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string name="select_theme_dialog_title">Scegliere il tuo colori!</string>
+    <string name="select_startday_dialog_title">Giorno di inizio di la settimana</string>
+    <string name="select_diaryalarm_dialog_title">Alarme di mettere e rimuovere il vostro patch?</string>
+    <string name="select_cyclealarm_dialog_title">Alarme per acquistare?</string>
+    <string name="select_prevdays_dialog_title">quanti giorni prima di mettere patch?</string>
+    <string name="select_alarm_hour_dialog_title">Selezionare ore</string>
+    <string name="select_sound_dialog_title">Souno</string>
+    <string name="select_vibrate_dialog_title">Vibrazione</string>
+    <string name="preferences_calendar_separator">Calendario</string>
+    <string name="preferences_alarms_separator">Allarmi</string>
+    <string name="ring_name">Anello</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="button_no">Cancelar</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="alarm_info_toast">In altra finestra è possibile configurare allarmi</string>
+    <string name="notification_bar_cycle_text1">In </string>
+    <string name="notification_bar_cycle_text2">Giorno inizia patch!</string>
+    <string name="notification_bar_cycle_text3">Oggi inizia patch!</string>
+    <string name="notification_bar_cycle_text4">Mattina inizia patch!</string>
+    <string name="day_touched_text">Sei sicuro di voler modificare l\'inizio di la prima patch?</string>
+    <string name="set_taking_ringday_toast">Cliccare in il giorno di inizio di la prima patch</string>
+    <string name="rest_name">Riposo</string>
+    <string name="notification_bar_put_ring_text">Mettere patch!</string>
+    <string name="notification_bar_remove_ring_text">Rimuovere patch!</string>
+	<string name="notification_bar_buy_text">Non dimenticare di acquistare patch</string>
+
+</resources>
